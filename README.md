@@ -19,7 +19,7 @@ Utility functions:
 
 ----------------------------------------------------------------  
 Paper title: [Focus Quality Assessment of High-Throughput Whole Slide Imaging in Digital Pathology]  
-Paper Download: [arXiv Link]  
+Paper Download: [https://arxiv.org/abs/1811.06038]  
 
 ----------------------------------------------------------------
 Author:  
@@ -30,4 +30,9 @@ http://www.dsp.utoronto.ca/~mhosseini/
 ----------------------------------------------------------------
 Citation:
 
-available soon ...
+@article{hosseini2018focus,  
+  title={Focus Quality Assessment of High-Throughput Whole Slide Imaging in Digital Pathology},  
+  author={Hosseini, Mahdi S and Zhang, Yueyang and Chan, Lyndon and Plataniotis, Konstantinos N and Brawley-Hayes, Jasper AZ and Damaskinos, Savvas},  
+  journal={arXiv preprint arXiv:1811.06038},  
+  year={2018}  
+}
