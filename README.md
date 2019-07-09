@@ -30,10 +30,10 @@ http://www.dsp.utoronto.ca/~mhosseini/
 ----------------------------------------------------------------
 Citation:
 
-@article{hosseini2019focus,
-  title={Focus Quality Assessment of High-Throughput Whole Slide Imaging in Digital Pathology}, 
-  author={Hosseini, Mahdi S and Brawley-Hayes, Jasper AZ and Zhang, Yueyang and Chan, Lyndon and Plataniotis, Konstantinos N and Damaskinos, Savvas}, 
-  journal={IEEE Transactions on Medical Imaging}, 
-  year={2019},  
-  publisher={IEEE}  
+@article{hosseini2019focus,   
+  title={Focus Quality Assessment of High-Throughput Whole Slide Imaging in Digital Pathology},   
+  author={Hosseini, Mahdi S and Brawley-Hayes, Jasper AZ and Zhang, Yueyang and Chan, Lyndon and Plataniotis, Konstantinos N and Damaskinos, Savvas},   
+  journal={IEEE Transactions on Medical Imaging},   
+  year={2019},   
+  publisher={IEEE}   
 }
